@@ -12,7 +12,7 @@ A modern, interactive 3D scrolling website built using cutting-edge web technolo
 📱 Fully responsive design
 ⚡ Optimized performance for modern browsers
 
-🛠️ Tech Stack
+🛠️ Tech Stack:-
 Frontend: HTML, CSS And JavaScriptt
 3D Graphics: HTML, CSS And JavaScript
 Animations: GSAP, Framer Motion
@@ -21,11 +21,16 @@ Version Control: Git & GitHub
 
 📂 Folder Structure
 3d-scroll-website/
-│── public/
-│   ├── styles.css
-│── README.md
+│── index.html
+│── css/
+│   └── style.css
+│── js/
+│   └── script.js   
+│── pages/    
+│── images/
+└── README.md
 
-⚙️ Installation & Setup
+⚙️ Installation & Setup:-
 1. Clone the repository:
 git clone https://github.com/your-username/3d-scroll-website.git
 2. Navigate to the project folder:
@@ -35,7 +40,7 @@ npm install
 Run the development server:
 npm start
 
-💻 Live Demo
+💻 Live Demo:-
 👉 Add your deployed link here
 Example:
 https://3d-scroll-portfolio.vercel.app
@@ -43,20 +48,20 @@ https://3d-scroll-portfolio.vercel.app
 🎥 Preview
 (Add GIF or screen recording of scrolling animation + 3D scene)
 
-📌 Key Sections
+📌 Key Sections:-
 🏠 Hero Section (Intro + CTA)
 🧠 About Section
 🚀 Projects Showcase
 📞 Contact Section
 
-📌 Future Improvements
+📌 Future Improvements:
 🧑‍🚀 Add 3D avatar / character
 🌌 Advanced camera transitions
 📊 Live GitHub API integration
 📩 Working contact form (EmailJS)
 🌐 Custom domain integration
 
-⚠️ Performance Note
+⚠️ Performance Note:
 This project uses 3D rendering, so:
 Use optimized models (GLB format)
 Avoid heavy textures
