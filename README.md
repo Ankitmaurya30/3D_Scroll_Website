@@ -25,8 +25,8 @@ Version Control: Git & GitHub
 │── css/<br>
 │   └── style.css<br>
 │── js/<br>
-│   └── script.js
-│── pages/<br>    
+│   └── script.js<br>
+│── pages/   
 │── images/<br>
 └── README.md
 
