@@ -32,7 +32,7 @@ Version Control: Git & GitHub
 
 ⚙️ Installation & Setup:<br>
 1. Clone the repository:
-git clone https://github.com/your-username/3d-scroll-website.git
+git clone https://github.com/Ankitmaurya30/3D_Scroll_Website
 2. Navigate to the project folder:
 cd 3d-scroll-website
 3. Install dependencies:
