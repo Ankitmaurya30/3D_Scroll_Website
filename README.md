@@ -25,7 +25,7 @@ Version Control: Git & GitHub
 │── css/<br>
 │   └── style.css<br>
 │── js/<br>
-│   └── script.js<br>
+│   └── script.js
 │── pages/<br>    
 │── images/<br>
 └── README.md
@@ -63,8 +63,8 @@ https://3d-scroll-portfolio.vercel.app
 
 ⚠️ Performance Note:<br>
 This project uses 3D rendering, so:
-Use optimized models (GLB format)
-Avoid heavy textures
+Use optimized models (GLB format)<br>
+Avoid heavy textures<br>
 Ensure smooth FPS on low-end devices
 
 🤝 Contributing:<br>
